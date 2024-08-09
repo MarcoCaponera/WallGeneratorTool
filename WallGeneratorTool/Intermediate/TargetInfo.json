@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "WallGeneratorTool",
+			"Path": "..\\Source\\WallGeneratorTool.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "WallGeneratorToolEditor",
+			"Path": "..\\Source\\WallGeneratorToolEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

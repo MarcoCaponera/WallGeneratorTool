@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\marco\\desktop\\aiv programmazione\\general\\wallgeneratortool\\wallgeneratortool\\source\\wallgeneratortool\\wallgeneratortool.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\marco\\desktop\\aiv programmazione\\general\\wallgeneratortool\\wallgeneratortool\\intermediate\\build\\win64\\x64\\wallgeneratortooleditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "d:\\marco\\desktop\\aiv programmazione\\general\\wallgeneratortool\\wallgeneratortool\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\wallgeneratortool\\definitions.wallgeneratortool.h",
+            "d:\\marco\\desktop\\aiv programmazione\\general\\wallgeneratortool\\wallgeneratortool\\source\\wallgeneratortool\\wallgeneratortool.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
